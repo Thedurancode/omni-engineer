@@ -7,7 +7,7 @@ Omni Engineer is a spiritual successor to [Claude Engineer](https://github.com/D
 At the same time, bring some cool new stuff like multi-file editing and save/resume of chats.
 I see this framework as more suitable for people who actually want to code with a better assistant on their side, versus something that is fully automatic.
 
-## 🌟 Features
+## 🌟 Featuress 
 - AI-Powered Responses
 - File Management (Add, Edit, Create)
 - Web Searching
